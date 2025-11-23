@@ -1,4 +1,4 @@
 This is linux code
 
-This is orginal code
-changed by dev3
+This is main code
+Modifided By dev3
